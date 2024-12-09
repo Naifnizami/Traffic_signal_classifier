@@ -1,3 +1,2 @@
-myenv1/lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
-myenv1/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.so.2
-
+myenv1/
+*.so
